@@ -1,0 +1,5 @@
+PyWin32
+fitz
+PyMuPDF
+frontend
+pillow
